@@ -37,7 +37,7 @@ Add this server to your `claude_desktop_config.json`:
     }
   }
 }
-
+```
 🤖 Usage
 Once connected, you can ask Claude to audit your work:
 
