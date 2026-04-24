@@ -38,10 +38,10 @@ Add this server to your `claude_desktop_config.json`:
   }
 }
 ```
-🤖 Usage
+## 🤖 Usage
 Once connected, you can ask Claude to audit your work:
 
 "Use the audit_metadata tool to check D:/github/far-force/src/content/docs/index.md"
 
-📈 Impact
+## 📈 Impact
 By moving validation "left" into the authoring environment, this tool reduces CI/CD pipeline failures and ensures that every documentation page is SEO-ready at the moment of creation.
